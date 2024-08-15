@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Знайти "С"</string>
+    <string name="result_info">Результат:&#160;</string>
+    <string name="result">Результат</string>
+    <string name="input_a">Введіть значення \"а\"</string>
+    <string name="input_b">Введіть значення \"b\"</string>
+    <string name="errorMessage">"Поле не може бути пустим!"</string>
+</resources>
